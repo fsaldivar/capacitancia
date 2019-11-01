@@ -1,0 +1,17 @@
+body{
+  font-family: fantasy;
+}
+
+input{
+  font-family:serif;
+}
+
+.entradas {
+
+  background-color: lightBlue;
+  display: inline-block;
+  border-radius: 5%;
+
+
+
+}
